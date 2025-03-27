@@ -1,3 +1,6 @@
 com/example/swagger_apis/TodoController.class
 com/example/swagger_apis/TodoItem.class
+com/example/swagger_apis/Connector.class
+com/example/swagger_apis/ConnectorController.class
 com/example/swagger_apis/SwaggerApisApplication.class
+com/example/swagger_apis/ConnectorService.class
